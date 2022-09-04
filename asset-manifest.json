@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lunchwithben/static/css/main.48f5efb9.css",
-    "main.js": "/lunchwithben/static/js/main.6506f82a.js",
+    "main.js": "/lunchwithben/static/js/main.7d373be6.js",
     "static/media/foodBackground.jpg": "/lunchwithben/static/media/foodBackground.ce10924edd26f63f18d1.jpg",
     "static/media/bbqandroastedporkrice.png": "/lunchwithben/static/media/bbqandroastedporkrice.2d5ace7484d80a95559d.png",
     "static/media/currymee(soup).png": "/lunchwithben/static/media/currymee(soup).c8ecce40a007627af87c.png",
@@ -80,10 +80,10 @@
     "static/media/s18.png": "/lunchwithben/static/media/s18.a886e32e0ef58659dbbc.png",
     "index.html": "/lunchwithben/index.html",
     "main.48f5efb9.css.map": "/lunchwithben/static/css/main.48f5efb9.css.map",
-    "main.6506f82a.js.map": "/lunchwithben/static/js/main.6506f82a.js.map"
+    "main.7d373be6.js.map": "/lunchwithben/static/js/main.7d373be6.js.map"
   },
   "entrypoints": [
     "static/css/main.48f5efb9.css",
-    "static/js/main.6506f82a.js"
+    "static/js/main.7d373be6.js"
   ]
 }
