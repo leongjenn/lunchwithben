@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lunchwithben/static/css/main.48f5efb9.css",
-    "main.js": "/lunchwithben/static/js/main.7d373be6.js",
+    "main.js": "/lunchwithben/static/js/main.ef30f2b3.js",
     "static/media/foodBackground.jpg": "/lunchwithben/static/media/foodBackground.ce10924edd26f63f18d1.jpg",
     "static/media/bbqandroastedporkrice.png": "/lunchwithben/static/media/bbqandroastedporkrice.2d5ace7484d80a95559d.png",
     "static/media/currymee(soup).png": "/lunchwithben/static/media/currymee(soup).c8ecce40a007627af87c.png",
@@ -63,7 +63,6 @@
     "static/media/kailing.jpg": "/lunchwithben/static/media/kailing.321bd089f7b391b69136.jpg",
     "static/media/senghann.jpg": "/lunchwithben/static/media/senghann.5bb57b5c712aac66eb28.jpg",
     "static/media/r6set.png": "/lunchwithben/static/media/r6set.2a6de7ca63fdeec69e9a.png",
-    "static/media/sampleAvatar.png": "/lunchwithben/static/media/sampleAvatar.dd6bbdbffa06cd620c9b.png",
     "static/media/cheecheongfun2.png": "/lunchwithben/static/media/cheecheongfun2.a6aa43e8f3cdc1454e5b.png",
     "static/media/panmee.png": "/lunchwithben/static/media/panmee.d5c59a6bd6ff7d9f8d07.png",
     "static/media/r1set.png": "/lunchwithben/static/media/r1set.25d15d5472c06e9a4792.png",
@@ -80,10 +79,10 @@
     "static/media/s18.png": "/lunchwithben/static/media/s18.a886e32e0ef58659dbbc.png",
     "index.html": "/lunchwithben/index.html",
     "main.48f5efb9.css.map": "/lunchwithben/static/css/main.48f5efb9.css.map",
-    "main.7d373be6.js.map": "/lunchwithben/static/js/main.7d373be6.js.map"
+    "main.ef30f2b3.js.map": "/lunchwithben/static/js/main.ef30f2b3.js.map"
   },
   "entrypoints": [
     "static/css/main.48f5efb9.css",
-    "static/js/main.7d373be6.js"
+    "static/js/main.ef30f2b3.js"
   ]
 }
