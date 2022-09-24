@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/lunchwithben/static/css/main.48f5efb9.css",
-    "main.js": "/lunchwithben/static/js/main.58ef159e.js",
+    "main.js": "/lunchwithben/static/js/main.73951464.js",
     "static/media/tomatokueyteow.png": "/lunchwithben/static/media/tomatokueyteow.515c1c00cf7acbbc48bf.png",
     "static/media/foodBackground.jpg": "/lunchwithben/static/media/foodBackground.ce10924edd26f63f18d1.jpg",
     "static/media/tomatoyellowmee.png": "/lunchwithben/static/media/tomatoyellowmee.bf817bc1d14253482315.png",
     "static/media/addfriedegg.png": "/lunchwithben/static/media/addfriedegg.d6f5202205a74161d352.png",
     "static/media/smokeducknoodlesoup.png": "/lunchwithben/static/media/smokeducknoodlesoup.4b57044dcb8ccd266083.png",
     "static/media/chickenchop.png": "/lunchwithben/static/media/chickenchop.8ade7d971b1df6038f61.png",
+    "static/media/sambalprawn.png": "/lunchwithben/static/media/sambalprawn.7d7ee1fbf575cd464e67.png",
     "static/media/gingerwinelalanoodle.png": "/lunchwithben/static/media/gingerwinelalanoodle.4d49332ea235cad14541.png",
     "static/media/sarawaklaksa.png": "/lunchwithben/static/media/sarawaklaksa.c327f19f21d7c97ceec5.png",
     "static/media/chickenchoppasta.png": "/lunchwithben/static/media/chickenchoppasta.d0369ecbe2d8880993e2.png",
@@ -21,10 +22,12 @@
     "static/media/currymee.png": "/lunchwithben/static/media/currymee.c8ecce40a007627af87c.png",
     "static/media/fishpastecantonesefried.png": "/lunchwithben/static/media/fishpastecantonesefried.35ecc025f06736f91ac9.png",
     "static/media/spicybraisedchickenfeetrice.png": "/lunchwithben/static/media/spicybraisedchickenfeetrice.2bd66200e4a4080bb016.png",
+    "static/media/bangkokfriedrice.png": "/lunchwithben/static/media/bangkokfriedrice.69cad52ac05875903574.png",
     "static/media/meesiamayamgoreng.png": "/lunchwithben/static/media/meesiamayamgoreng.475d03be4190dab9a2bf.png",
     "static/media/addrice.png": "/lunchwithben/static/media/addrice.a61f43ddbb6859f8e108.png",
     "static/media/bbqporkchickenrice.png": "/lunchwithben/static/media/bbqporkchickenrice.4c933091364d111dfee1.png",
     "static/media/r4set.png": "/lunchwithben/static/media/r4set.9ae20480ad04951c5e56.png",
+    "static/media/kerabufriedrice.png": "/lunchwithben/static/media/kerabufriedrice.6399f306055aa0372b5e.png",
     "static/media/r5set.png": "/lunchwithben/static/media/r5set.59dd3d0adfda4e018d5f.png",
     "static/media/chickenrice.png": "/lunchwithben/static/media/chickenrice.97be62a99498b831f46a.png",
     "static/media/fries.png": "/lunchwithben/static/media/fries.21f60ad10947f87c339a.png",
@@ -50,6 +53,7 @@
     "static/media/friedchickenrice.png": "/lunchwithben/static/media/friedchickenrice.b14c1eab455ac9166d38.png",
     "static/media/bittergourdporkrice.png": "/lunchwithben/static/media/bittergourdporkrice.92750963be084171884c.png",
     "static/media/gingerwinenoodle.png": "/lunchwithben/static/media/gingerwinenoodle.2a32cfcf3f2c3d234bc0.png",
+    "static/media/thaichicken.png": "/lunchwithben/static/media/thaichicken.c6157213173d6bf5453c.png",
     "static/media/bittergourdporknoodle(dry).png": "/lunchwithben/static/media/bittergourdporknoodle(dry).43b9aad63591a82937f6.png",
     "static/media/shreddedchickenhorfun.png": "/lunchwithben/static/media/shreddedchickenhorfun.1797b9998cacb8d06626.png",
     "static/media/setk.png": "/lunchwithben/static/media/setk.d20015667db59937de6f.png",
@@ -60,6 +64,7 @@
     "static/media/meesiam+mee.png": "/lunchwithben/static/media/meesiam+mee.9a8c76899eb410f24af6.png",
     "static/media/nasilemakayamgoreng.png": "/lunchwithben/static/media/nasilemakayamgoreng.d59bd60cc32c61827c48.png",
     "static/media/setn.png": "/lunchwithben/static/media/setn.14d732fd066813131c86.png",
+    "static/media/crispyprawnfriedrice.png": "/lunchwithben/static/media/crispyprawnfriedrice.cba5f9aa5b43418f5bc5.png",
     "static/media/drycurrychicken.png": "/lunchwithben/static/media/drycurrychicken.f529cdde92503edc68a2.png",
     "static/media/setj.png": "/lunchwithben/static/media/setj.eb40771e96bdf24854e7.png",
     "static/media/setg.png": "/lunchwithben/static/media/setg.51fa71b9dfbfede1b106.png",
@@ -75,6 +80,7 @@
     "static/media/setb.png": "/lunchwithben/static/media/setb.96f39a1b4aa5c4843cd3.png",
     "static/media/setl.png": "/lunchwithben/static/media/setl.3a4549488a32780dc74b.png",
     "static/media/seti.png": "/lunchwithben/static/media/seti.4656f943d8bd442ae687.png",
+    "static/media/seafoodfriedrice.png": "/lunchwithben/static/media/seafoodfriedrice.6126f57a2f53d893280f.png",
     "static/media/seth.png": "/lunchwithben/static/media/seth.0cfe95e7f534aef32be9.png",
     "static/media/cheecheongfun3.png": "/lunchwithben/static/media/cheecheongfun3.8f15edbe376a2a8d7324.png",
     "static/media/nasilemakkecil.png": "/lunchwithben/static/media/nasilemakkecil.29d57c441f1ee7f81b1a.png",
@@ -86,6 +92,7 @@
     "static/media/jiangnansangmee.png": "/lunchwithben/static/media/jiangnansangmee.57dc372e1218472f1c2b.png",
     "static/media/weilip.jpg": "/lunchwithben/static/media/weilip.7a4068e33059ab82f687.jpg",
     "static/media/r2set.png": "/lunchwithben/static/media/r2set.caa7031fb178d4c34651.png",
+    "static/media/usafriedrice.png": "/lunchwithben/static/media/usafriedrice.2c892b354cd7b3b384cf.png",
     "static/media/bittergourdporkyeemee.png": "/lunchwithben/static/media/bittergourdporkyeemee.27595cb032b17f8ecb4f.png",
     "static/media/porkyeemee(soup).png": "/lunchwithben/static/media/porkyeemee(soup).27595cb032b17f8ecb4f.png",
     "static/media/ooi.jpg": "/lunchwithben/static/media/ooi.2f828e29792a22a08460.jpg",
@@ -106,6 +113,7 @@
     "static/media/pang.jpg": "/lunchwithben/static/media/pang.3e8b8aee7846cfbdcaeb.jpg",
     "static/media/felicia.jpg": "/lunchwithben/static/media/felicia.959b9303307a1bf244bc.jpg",
     "static/media/wantanmee.png": "/lunchwithben/static/media/wantanmee.292e4db32b0a107de81c.png",
+    "static/media/mixedvegetable.png": "/lunchwithben/static/media/mixedvegetable.1303ebf963cdb77acc49.png",
     "static/media/gingerwineseafoodnoodle.png": "/lunchwithben/static/media/gingerwineseafoodnoodle.9962331c3db9fb90a90d.png",
     "static/media/jackie.jpg": "/lunchwithben/static/media/jackie.4b6c591a06971aedb049.jpg",
     "static/media/saik.jpg": "/lunchwithben/static/media/saik.5dbef1714c7bf44e6fae.jpg",
@@ -123,6 +131,7 @@
     "static/media/charsohun.png": "/lunchwithben/static/media/charsohun.fc19a897185f9fe68e6c.png",
     "static/media/kailing.jpg": "/lunchwithben/static/media/kailing.321bd089f7b391b69136.jpg",
     "static/media/senghann.jpg": "/lunchwithben/static/media/senghann.5bb57b5c712aac66eb28.jpg",
+    "static/media/drychilichicken.png": "/lunchwithben/static/media/drychilichicken.5c68494f30b863e2f091.png",
     "static/media/spicyandsourporknoodle.png": "/lunchwithben/static/media/spicyandsourporknoodle.c52f0cd85a0e7888602b.png",
     "static/media/r6set.png": "/lunchwithben/static/media/r6set.2a6de7ca63fdeec69e9a.png",
     "static/media/cheecheongfun2.png": "/lunchwithben/static/media/cheecheongfun2.a6aa43e8f3cdc1454e5b.png",
@@ -150,10 +159,10 @@
     "static/media/s18.png": "/lunchwithben/static/media/s18.a886e32e0ef58659dbbc.png",
     "index.html": "/lunchwithben/index.html",
     "main.48f5efb9.css.map": "/lunchwithben/static/css/main.48f5efb9.css.map",
-    "main.58ef159e.js.map": "/lunchwithben/static/js/main.58ef159e.js.map"
+    "main.73951464.js.map": "/lunchwithben/static/js/main.73951464.js.map"
   },
   "entrypoints": [
     "static/css/main.48f5efb9.css",
-    "static/js/main.58ef159e.js"
+    "static/js/main.73951464.js"
   ]
 }
